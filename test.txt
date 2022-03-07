@@ -1,2 +1,0 @@
-dev_write1
-main_write1
